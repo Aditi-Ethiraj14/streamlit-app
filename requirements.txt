@@ -10,3 +10,4 @@ requests
 pylatexenc
 numpy
 scikit-learn
+docx2txt
