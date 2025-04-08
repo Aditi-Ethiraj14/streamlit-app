@@ -86,7 +86,7 @@ if music_toggle:
     """, unsafe_allow_html=True)
 
 # Use lightweight summarization model
-summarizer = pipeline("summarization", model="Falconsai/text_summarization")
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
 rewriter = pipeline("text2text-generation", model="Falconsai/text_summarization")
 
 # PDF text extraction
