@@ -1,6 +1,7 @@
 streamlit
 pdfplumber
-transformers==4.30.2
+transformers==4.28.1
+tokenizers==0.13.2
 torch
 sentencepiece
 fpdf
