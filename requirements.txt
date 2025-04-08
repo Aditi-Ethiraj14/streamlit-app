@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+transformers
+fpdf
+regex
+python-docx
+wordcloud
+matplotlib
+requests
+pylatexenc
+numpy
+scikit-learn
