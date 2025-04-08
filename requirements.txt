@@ -5,11 +5,10 @@ torch
 sentencepiece
 fpdf
 regex
-python-docx
+docx2txt
 wordcloud
 matplotlib
 requests
 pylatexenc
 numpy
 scikit-learn
-docx2txt
